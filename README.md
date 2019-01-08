@@ -1,5 +1,5 @@
-# jniThread
-Java 与 C++ 通过 jni  创建线程，并方法互调
+# jniThread         
+Java 与 C++ 通过 jni  创建线程，并方法互调    （感谢杨万里老师的视频～）
 
 
 ### 01:最简单的创建线程   normalCallBack  里面是回调
